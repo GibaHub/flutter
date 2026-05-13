@@ -1,0 +1,4 @@
+storePassword=123456
+keyPassword=123456
+keyAlias=upload
+storeFile=C:\\GitHub\\Projetos\\Flutter\\minha_cometa_adm\\keystore.jks
